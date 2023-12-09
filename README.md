@@ -60,4 +60,15 @@ python main.py
 
 ## Demo
 
-![demo](./demo.gif)
+![demo](./ScreenShots/demo.gif)
+
+## ScreenShots
+![1](./ScreenShots/pong_1.png)
+
+
+
+![2](./ScreenShots/pong_2.png)
+
+![3](./ScreenShots/pong_3.png)
+
+![4](./ScreenShots/pong_4.png)

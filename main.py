@@ -64,7 +64,7 @@ class Menu:
             Rectangle(90, 200, 320, 80)
             drawText(220, 150, "Quit")
 
-        drawTextSmall(170, 40, "created by stranger")
+        drawTextSmall(170, 40, "created by eniac00")
 
             
     def iterate(self):
